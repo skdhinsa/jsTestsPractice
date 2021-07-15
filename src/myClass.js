@@ -23,9 +23,6 @@ class MyClass {
       return res;
     }
 
-
-
-    
 }
 
 module.exports = MyClass;
